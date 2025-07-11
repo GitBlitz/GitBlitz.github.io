@@ -1,1 +1,1 @@
-# GitBlitz.github.io
+# BlitzBooks GitHub Pages repo
